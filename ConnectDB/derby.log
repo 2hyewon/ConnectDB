@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Aug 20 18:21:21 KST 2019:
+ 클래스 로더 jdk.internal.loader.ClassLoaders$AppClassLoader@776ec8df이(가) 있는 데이터베이스 디렉토리 /Users/hyewon/eclipse-workspace/ConnectDB/ConnectDB에서 
+ Derby 버전 The Apache Software Foundation - Apache Derby - 10.15.1.3 - (1853019): 인스턴스 a816c00e-016c-ae54-b06f-00000754a000 부팅 중 
+file:/Users/hyewon/eclipse-workspace/ConnectDB/src/lib/derby.jar에서 로드됨
+java.vendor=Oracle Corporation
+java.runtime.version=12.0.1+12
+user.dir=/Users/hyewon/eclipse-workspace/ConnectDB
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.6
+derby.system.home=null
+데이터베이스 클래스 로더가 시작됨 - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Aug 20 18:22:21 KST 2019:
+클래스 로더 jdk.internal.loader.ClassLoaders$AppClassLoader@776ec8df이(가) 있는 데이터베이스 디렉토리 /Users/hyewon/eclipse-workspace/ConnectDB/ConnectDB의 인스턴스 a816c00e-016c-ae54-b06f-00000754a000 종료 
